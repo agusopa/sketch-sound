@@ -1,2 +1,2 @@
-#  boceto sonido
+# Boceto sonido
 https://texassunkhruang.web.app/
